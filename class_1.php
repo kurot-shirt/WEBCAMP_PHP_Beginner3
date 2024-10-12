@@ -3,7 +3,7 @@
 class クラス名
 {
 	private $変数;
-	
+
 	public function 関数()
 	{
 		echo "メソッドの処理 \n";
